@@ -1,0 +1,72 @@
+.header_wrapper{
+    background-image: url(../images/main_background.html);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 600px;
+}
+
+ul li a {
+    font-size: 20px;
+    color: wheat;
+    font-family: 'Gentium Book Basic', serif;
+}
+
+.header{
+    padding-top: 48px;
+}
+.header_content h1{
+    padding-top: 100px;
+}
+.logo>img{
+    margin-left: 90px;
+    margin-top: -35px;
+}
+.menu ul li{
+    padding-right: 20px;
+}
+.menu>ul li a:hover{
+    color: yellow;
+    text-decoration: none;
+
+}
+.menu>ul li:hover{
+    border-bottom: 2px solid yellow;
+}
+
+.header_content >h1 {
+    font-family: 'Yeseva One', cursive;
+    font-size: 78px;
+    color: #f1f0f0;
+}
+.header_button{
+    padding-top: 20px;
+}
+
+.btn_1{
+    background: black;
+    opacity: 0.7;
+    border: 2px solid black;
+
+}
+.btn_1:hover{
+    background: transparent;
+    opacity: 0.7;
+    border: 2px solid black;
+
+}
+.btn_2{
+    background: #CBC363;
+    opacity: 0.7;
+    border: 2px solid yellow;
+}
+.btn_2:hover{
+    background: transparent;
+    opacity: 0.7;
+    border: 2px solid #CBC363;
+
+}
+a:hover{
+    color: white;
+    text-decoration: none;
+}
